@@ -1,2 +1,0 @@
-# Heroku
-Price Prediction Project
